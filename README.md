@@ -47,9 +47,11 @@ const ahmedHossam = {
 
 <div align="center">
 
-![GitHub profile](https://img.shields.io/badge/GitHub-Ahmed--hub--01-181717?style=flat&logo=github&logoColor=white)
-![Public repositories](https://img.shields.io/badge/Public%20Repos-Building%20Now-2ea44f?style=flat&logo=github)
-![Learning](https://img.shields.io/badge/Currently%20Learning-Web%20Development-0078D4?style=flat&logo=visualstudiocode)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmed-hub-01&theme=github_dark" alt="GitHub stats" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmed-hub-01&theme=github_dark" alt="Top languages by repo" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmed-hub-01&theme=github_dark" alt="Top languages by commit" width="32%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-hub-01&theme=github_dark" alt="GitHub profile details" width="98%"/>
 
 </div>
 
