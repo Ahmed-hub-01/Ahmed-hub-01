@@ -15,6 +15,8 @@
 
 ## About Me
 
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+
 - <img src="./images/Developer.gif" width="25" alt="Developer" /> I enjoy building useful projects and learning new technologies.
 - <img src="./images/hyperkitty.gif" width="20" alt="Linux" /> I like exploring software, tools, and clean development workflows.
 - <img src="./images/message.gif" width="25" alt="Message" /> Ask me about programming, tech, or any idea you want to build.
