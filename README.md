@@ -48,8 +48,9 @@ const ahmedHossam = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-hub-01&show_icons=true&theme=tokyonight" alt="Ahmed Hossam GitHub stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-hub-01&layout=compact&theme=tokyonight" alt="Top Languages" width="36%"/>
+![GitHub profile](https://img.shields.io/badge/GitHub-Ahmed--hub--01-181717?style=flat&logo=github&logoColor=white)
+![Public repositories](https://img.shields.io/badge/Public%20Repos-Building%20Now-2ea44f?style=flat&logo=github)
+![Learning](https://img.shields.io/badge/Currently%20Learning-Web%20Development-0078D4?style=flat&logo=visualstudiocode)
 
 </div>
 
