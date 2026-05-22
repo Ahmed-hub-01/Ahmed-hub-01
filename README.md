@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="./images/hellocoders_rounded.gif" alt="Hello Coders" width="60%"/><br>
 <img src="./images/dev-working_rounded.gif" alt="Workspace" width="40%"/><br>
 
 # Hi, I'm Ahmed Hossam
